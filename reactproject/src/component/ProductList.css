@@ -1,0 +1,16 @@
+.input-group{
+        width: 100%;
+        top: 10px;
+        margin-bottom: 20px;
+
+   }
+   
+   .product-list{
+    float: left;
+    color:cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+   .color{
+        background-color: yellow;
+        color: black;
+   }
